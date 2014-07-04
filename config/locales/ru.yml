@@ -9,9 +9,9 @@ ru:
     permission_view_mc_time_mgmt_project: "Вид M&C Управление временными затратами"
     permission_view_mc_human_resource_mgmt_project: "Вид M&C Управление человеческими ресурсами"    
 
-    monitoring_controlling_title: "Мониторинг & Контроль"
+    monitoring_controlling_title: " M&C"
     project_module_monitoring_controlling_project: "Мониторинг & Контроль by Project"    
-    monitoring_controlling_project: "Мониторинг & Контроль by Projeto"
+    monitoring_controlling_project: "Мониторинг & Контроль by Project"
     statuses_issue_label_title: "Задачи по статусам"
     categories_issue_label_title: "Tasks by Category"    
 
